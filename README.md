@@ -61,7 +61,7 @@ The dashboard tracks the following KPIs:
 ---
 
 ##  Files Included
-📂 Project Files
+ Project Files
 
 | File Name | Description |
 |------------|-------------|
