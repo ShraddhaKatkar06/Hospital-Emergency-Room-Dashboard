@@ -56,7 +56,26 @@ The dashboard tracks the following KPIs:
 - **Data Visualization**
 
 ---
+## Project Workflow
 
+1. Data Collection (CSV Dataset)
+2. Data Cleaning
+3. Data Analysis using Pivot Tables
+4. KPI Creation
+5. Dashboard Design
+6. Insight Generation
+
+---
+## Key Insights
+
+- A higher proportion of patients were non-admitted compared to admitted patients.
+- Increased waiting time showed an impact on patient satisfaction levels.
+- Certain age groups accounted for a larger share of emergency room visits.
+- Department referrals varied significantly, indicating differences in patient needs.
+- Patient distribution showed variation across gender demographics.
+
+ ---
+  
 ## Dashboard Preview
 
 <img width="1498" height="569" alt="Hospital Emergency Room Dashboard" src="https://github.com/user-attachments/assets/adc0c8b6-dc3d-4d89-805a-88b0c2ffe9be" />
@@ -68,8 +87,8 @@ The dashboard tracks the following KPIs:
 | File Name | Description |
 |------------|-------------|
 | `Hospital_ER_Dashboard.xlsx` | Excel Dashboard File |
-| `hospital_Emergency_Room_Data.csv` | Source Dataset |
-| `dashboard.png` | Dashboard Screenshot |
+| `Hospital Emergency Room Data.csv` | Source Dataset |
+| `Dashboard.png` | Dashboard Screenshot |
 
 ---
 
